@@ -11,6 +11,10 @@
 
      - [Content Platforms Explained in 100 Seconds // Build your own with Sanity](https://youtu.be/c_8cplBi_gE)
 
+     - [Next.js in 100 Seconds // Plus Full Beginner's Tutorial](https://youtu.be/Sklc_fQBmcs)
+
+     - [Next.js 13 - The Basics](https://youtu.be/__mSgDEOyv8)
+
 
 ## ReadMe and Alice in Wonderland-inspired Insight
 As I was creating the "ReadMe.md" file for this project, I couldn't help but notice an interesting similarity with the "Eat Me" and "Drink Me" items from Lewis Carroll's novel "Alice's Adventures in Wonderland."
